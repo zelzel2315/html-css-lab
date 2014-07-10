@@ -1,0 +1,42 @@
+.navbar {
+	max-width: 1050px;
+	margin: 0px auto;
+}
+
+.navbar ul li {  
+	display: inline;
+	} 
+
+.navbar li {
+	color: white;
+	font-family: arial;
+	margin: 1px 1px 1px 1px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+header {
+	background-color: black;
+	height: 90px;
+}
+
+.first_row {
+	max-width: 960px;
+	margin: 0px auto;
+}
+
+#logo {
+	max-width: 960px;
+	margin: 0px auto;
+	display: inline;
+	float:left;
+}
+
+.socialMedia {
+	
+	float: left;
+}
+
+#photobanner {
+
+}
